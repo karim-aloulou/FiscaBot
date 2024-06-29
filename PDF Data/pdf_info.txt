@@ -1,0 +1,72 @@
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Autres Impôts et Contributions\Retenues à la source.pdf: 11 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Autres Impôts et Contributions\Taux et Barème de l_impot.pdf: 3 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Evaluations et Assiette\Articles 5 et 6 régles d_assiette  .pdf: 5 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Evaluations et Assiette\Evaluations forfaitaires du revenus imposable.pdf: 3 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Exonérations et Deductions\Exonérations.pdf: 6 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Exonérations et Deductions\Impot sur les societes - Exonérations.pdf: 2 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Exonérations et Deductions\Tableau A .pdf: 12 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\IS (Impôt sur les Sociétés)\Impot sur les societes - Exonérations.pdf: 2 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\IS (Impôt sur les Sociétés)\Impot sur les socites champs d_application.pdf: 2 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\IS (Impôt sur les Sociétés)\IS - Détermination du bénéfices imposble.pdf: 16 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\IS (Impôt sur les Sociétés)\IS- Taux.pdf: 4 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Législation et Réglementation\Loi de finances 2023.pdf: 108 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Obligations et Déclarations\Acomptes provisionnel et avance sur impot.pdf: 4 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Obligations et Déclarations\Obligation des assujettis , article 18 à 19 QUATER .pdf: 8 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Obligations et Déclarations\Obligations des contribuables.pdf: 12 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Obligations et Déclarations\Personnes imposables.pdf: 3 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Obligations et Déclarations\Régime d_integration des résultats.pdf: 4 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Obligations et Déclarations\Régime forfaitaire de l_impot sur le revenu.pdf: 3 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Obligations et Déclarations\Régime forfaitaire TVA art 16 et 17  .pdf: 1 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Obligations et Déclarations\Régularisation.pdf: 3 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Obligations et Déclarations\Tenue de comptabilité.pdf: 3 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Revenus\Autres revenus.pdf: 1 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Revenus\Bénéfices de l_exploitation agricole ou de peche.pdf: 2 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Revenus\Bénéfices des professions non commerciales.pdf: 1 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Revenus\Bénéfices industriels et commerciaux.pdf: 13 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Revenus\Revenus de valeurs mobiliers et de capitaux mobiliers.pdf: 5 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Revenus\Revenus fonciers.pdf: 4 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Revenus\Revenus imposables.pdf: 2 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Revenus\Traitements, Salaires, Pension et Rentes viageres..pdf: 2 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Révision et Publications\Revue Fiscale N°2.pdf: 102 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Afrique du sud.pdf: 12 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Albanie.pdf: 9 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Algérie.pdf: 8 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Allemagne.pdf: 13 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Argentine.pdf: 5 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Autriche.pdf: 4 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-BLEU.pdf: 6 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Bulgarie.pdf: 8 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Burkina Faso.pdf: 9 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Chine.pdf: 5 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Congo.pdf: 9 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Corée.pdf: 5 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Malte.pdf: 8 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Maroc.pdf: 7 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Mauritanie.pdf: 7 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Niger.pdf: 8 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Oman.pdf: 6 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Pakistan.pdf: 4 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Pays Bas.pdf: 10 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Poland.pdf: 10 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Portugal.pdf: 12 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Qatar.pdf: 12 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Romanie.pdf: 8 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Soudan.pdf: 8 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Suisse.pdf: 8 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Suède.pdf: 7 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Syrie.pdf: 9 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Tchequie.pdf: 10 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Togo.pdf: 9 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Turkie.pdf: 6 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-UAE.pdf: 18 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-UK.pdf: 6 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-UMA.pdf: 6 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-USA.pdf: 8 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\Traités Bilatéraux D'investissement\TBI Tunisie-Yemen.pdf: 11 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\TVA (Taxe sur la Valeur Ajoutée)\Art 11 à Art 14 Régime suspensif TVA .pdf: 8 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\TVA (Taxe sur la Valeur Ajoutée)\Article 9 et 10 déductions TVA .pdf: 8 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\TVA (Taxe sur la Valeur Ajoutée)\Champs d_app TVA art 1 à 4 .pdf: 17 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\TVA (Taxe sur la Valeur Ajoutée)\Déductions communes.pdf: 11 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\TVA (Taxe sur la Valeur Ajoutée)\Restitution TVA art 15.pdf: 2 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\TVA (Taxe sur la Valeur Ajoutée)\Tableau A .pdf: 12 pages
+C:\Users\msi\Desktop\FiscaBot\PDF Data\TVA (Taxe sur la Valeur Ajoutée)\Taux TVA articles 8 et 7 .pdf: 9 pages
